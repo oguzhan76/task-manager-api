@@ -136,8 +136,6 @@ router.get('/users/:id/avatar', async (req, res) => {
     } catch (e) {
         res.status(404).send(e);
     }
-
-    
 });
 
 module.exports = router;
