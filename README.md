@@ -110,7 +110,6 @@ This is a basic rest api project where users store their tasks.
 
 **Success response code** : `200 OK`
 
-<<<<<<< HEAD
 **expected request body** : json object including any of the fields: "name", "age", "email", "password"
 
 ```json
@@ -121,9 +120,6 @@ This is a basic rest api project where users store their tasks.
     "password": "123456"
 }
 ```
-=======
-**allowed fields** : "name", "age", "email", "password"
->>>>>>> 3b41dca451f487a45171989b204ce288294a10d4
 
 **Response** : user info
 
@@ -173,7 +169,7 @@ This is a basic rest api project where users store their tasks.
 **Response** : NONE
 
 
-<<<<<<< HEAD
+
 ## Tasks
 
 ### Create Task
@@ -261,6 +257,3 @@ This is a basic rest api project where users store their tasks.
 **expected request body** : NONE
 
 **Response** : deleted task info
-=======
-## TASKS
->>>>>>> 3b41dca451f487a45171989b204ce288294a10d4
